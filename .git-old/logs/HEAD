@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 a7a838416af608bfae56331e1aac05998cc394cd Mostafa1712002 <mostafaibrahim1712002@gmail.com> 1742938895 +0200	commit (initial): upgrade laravel11
+a7a838416af608bfae56331e1aac05998cc394cd ed87721a94179721cd8e753032f598a7631e1ab5 Mostafa1712002 <mostafaibrahim1712002@gmail.com> 1743613186 +0200	commit: finish new layouts and sidebar and use livewire , livewire table , livewire alerts , fix problem of table all and models for role and permissions
+ed87721a94179721cd8e753032f598a7631e1ab5 44e31524e812ab61efd0c33ac6356d7aef4e2fd2 Mostafa1712002 <mostafaibrahim1712002@gmail.com> 1743867522 +0200	commit: change logo in svg
+44e31524e812ab61efd0c33ac6356d7aef4e2fd2 ba562cab8434d1687c0bd88b0a329a12723a8ae5 Mostafa1712002 <mostafaibrahim1712002@gmail.com> 1744055254 +0200	commit: finish countries , langauges
+ba562cab8434d1687c0bd88b0a329a12723a8ae5 a5535b4de9a346780abd6feaac341eedce91dcc9 Mostafa1712002 <mostafaibrahim1712002@gmail.com> 1744220766 +0200	commit: add databases
+a5535b4de9a346780abd6feaac341eedce91dcc9 f111d669bdc69e6f67a3fcdc3b439d3273d644b1 Mostafa1712002 <mostafaibrahim1712002@gmail.com> 1744456187 +0200	commit: finish facebook pages
+f111d669bdc69e6f67a3fcdc3b439d3273d644b1 2faac48b148583c32febfa0b1357fdbc98241f70 Mostafa1712002 <mostafaibrahim1712002@gmail.com> 1744494418 +0200	commit: command import for facebook data , finish crud facebokk pages
+2faac48b148583c32febfa0b1357fdbc98241f70 0e55f9c7be77ba62bb3463e46484cb09224f06c5 Mostafa1712002 <mostafaibrahim1712002@gmail.com> 1744809438 +0200	commit: finish messages and conversation
+0e55f9c7be77ba62bb3463e46484cb09224f06c5 27be3face1373f61fe293329550b11b36b7bb452 Mostafa1712002 <mostafaibrahim1712002@gmail.com> 1745098199 +0200	commit: function send message
